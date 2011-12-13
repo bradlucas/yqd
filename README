@@ -1,0 +1,5 @@
+yqd - Yahoo Quote Downloader
+
+Yqd is a command line tool for downloading historical price information from Yahoo. It accepts a group of symbols on the command line or from a file and downloads each symbols historical data to a CSV file. Yqd is useful for end of day scripts to download price information regularly. Also, you can quickly verify data by running yqd manually and either editing the resulting file or passing an argument to yqd to display the results to stdio. 
+
+See: http://www.beaconhill.com/solutions/opensource/yqd.html
