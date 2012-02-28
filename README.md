@@ -21,11 +21,11 @@ Enter the following at the command line to see the options:
 
 To download the quote history for google enter the following:
 
-   $ java -jar yqd-cmdline.jar goog
+    $ java -jar yqd-cmdline.jar goog
 
 To download the quote history for google to the screen:
 
-   $ java -jar yqd-cmdline.jar -o goog
+    $ java -jar yqd-cmdline.jar -o goog
 
 
 ## Feedback
