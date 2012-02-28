@@ -1,0 +1,20 @@
+
+-------------
+Version 0.1.2
+-------------
+
+- package command in build wasn't including src/conf so one-jar task was failing
+
+-------------
+Version 0.1.1
+-------------
+
+- Added RELEASE_NOTES.txt
+
+
+-------------
+Version 0.1.0
+-------------
+
+- Initial release
+

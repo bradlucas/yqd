@@ -1,0 +1,36 @@
+==================
+Basic Installation
+==================
+
+Running yqd
+-----------
+
+
+Unpack the distribution and cd into the dist directory.
+
+Identify the yqd-cmdline-VERSION file and substitute the same for the examples below.
+
+Enter the following at the command line to see the options:
+
+$ java -jar yqd-cmdline.jar -h
+
+To download the quote history for google enter the following:
+
+$ java -jar yqd-cmdline.jar GOOG
+
+To download the quote history for google to the screen:
+
+$ java -jar yqd-cmdline.jar -o goog
+
+
+Building yqd
+------------
+
+Unpack the distribution and cd into the yqd directory.
+
+From the command line you can build the project with ant.
+
+$ ant
+
+The dist directory will contain the resulting yqd-cmdline.jar file used to run yqd
+
