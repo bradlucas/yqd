@@ -1,5 +1,4 @@
 # yqd
-======
 
 Yqd is a command line tool for downloading historical price information from Yahoo. It accepts a group of symbols on the command line or from a file and downloads each symbols historical data to a CSV file. Yqd is useful for end of day scripts to download price information regularly. Also, you can quickly verify data by running yqd manually and either editing the resulting file or passing an argument to yqd to display the results to stdio.
 
@@ -32,4 +31,4 @@ To download the quote history for google to the screen:
 
 If you try yqd and have a suggestion please let me know.
 
-   brad@beaconhill.com
+- brad@beaconhill.com
