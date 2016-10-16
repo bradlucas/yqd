@@ -16,19 +16,19 @@ The dist folder will contain the compiled application name yqd-cmdline-VERSION.j
 
 Enter the following at the command line to see the options:
 
-      $ java -jar yqd-cmdline.jar -h
+      $ java -jar yqd-cmdline-1.0.0.jar -h
 
 To download the quote history for google enter the following:
 
-    $ java -jar yqd-cmdline.jar goog
+    $ java -jar yqd-cmdline-1.0.0.jar goog
 
 To download the quote history for google to the screen:
 
-    $ java -jar yqd-cmdline.jar -o goog
+    $ java -jar yqd-cmdline-1.0.0.jar -o goog
 
 
 ## Feedback
 
 If you try yqd and have a suggestion please let me know.
 
-- brad@beaconhill.com
+brad@beaconhill.com
