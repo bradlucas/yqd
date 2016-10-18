@@ -32,3 +32,14 @@ To download the quote history for google to the screen:
 If you try yqd and have a suggestion please let me know.
 
 brad@beaconhill.com
+
+
+## Versions
+
+### 1.0.1
+
+- Updated libraries
+
+### 1.0.0
+
+- Original version
