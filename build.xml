@@ -26,16 +26,16 @@
   <property name="project.structure.temp.package" value="${project.structure.temp}/package"/>
 -->
 
-  <property name="version.java.jvm" value="1.5"/>
+  <property name="version.java.jvm" value="1.8"/>
 
   <property name="project.jar" value="${ant.project.name}-${project.version}.jar"/>
 
   <!-- jar files in the lib directory -->
   <property name="project.structure.lib" value="${basedir}/lib"/>
-  <property name="commons-cli.jar" value="commons-cli-1.1.jar"/>
-  <property name="commons-io.jar"  value="commons-io-1.4.jar"/>
-  <property name="httpcore.jar" value="httpcore-4.0.jar" />
-  <property name="one-jar-ant-task.jar" value="one-jar-ant-task-0.96.jar"/>
+  <property name="commons-cli.jar" value="commons-cli-1.3.1.jar"/>
+  <property name="commons-io.jar"  value="commons-io-2.5.jar"/>
+  <property name="httpcore.jar" value="httpcore-4.4.4.jar" />
+  <property name="one-jar-ant-task.jar" value="one-jar-ant-task-0.97.jar"/>
 
   <path id="javac.classpath">
         <fileset dir="${project.structure.lib}">
